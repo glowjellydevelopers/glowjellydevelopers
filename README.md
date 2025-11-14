@@ -1,4 +1,5 @@
 ## Hi there 👋
+Thanks to Orc Id, Render, Github, and Paterion.
 
 <!--
 **glowjellydevelopers/glowjellydevelopers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
