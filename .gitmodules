@@ -7,3 +7,6 @@
 [submodule "scratch-gui"]
 	path = scratch-gui
 	url = https://github.com/TurboWarp/scratch-gui.git
+[submodule "cloud-server"]
+	path = cloud-server
+	url = https://github.com/TurboWarp/cloud-server.git
