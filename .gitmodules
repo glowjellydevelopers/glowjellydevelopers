@@ -1,0 +1,9 @@
+[submodule "extensions"]
+	path = extensions
+	url = https://github.com/TurboWarp/extensions
+[submodule "desktop"]
+	path = desktop
+	url = https://github.com/TurboWarp/desktop.git
+[submodule "scratch-gui"]
+	path = scratch-gui
+	url = https://github.com/TurboWarp/scratch-gui.git
